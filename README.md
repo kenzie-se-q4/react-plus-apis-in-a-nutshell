@@ -2,7 +2,7 @@
 
 Now that you've created an API with Django Rest Framework (DRF), let's put that API to use!
 
-You all remember [React](https://reactjs.org/). right? Well. it's just the tool we need for accessing the data from our API. In this assessment, we'll create a Single Page Application (SPA) that fetches data from our backend API and displays it on our React frontend.
+You all remember [React](https://reactjs.org/). right? Well, it's just the tool we need for accessing the data from our API. In this assessment, we'll create a Single Page Application (SPA) that fetches data from our backend API and displays it on our React frontend.
 
 #### **Your Task**
 
