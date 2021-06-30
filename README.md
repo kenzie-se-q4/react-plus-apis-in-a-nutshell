@@ -12,7 +12,7 @@ For this assessment, we will be creating a new React frontend and reusing our ba
 
 Create a new react app. You'll want to use something like Facebook's [Create React App](https://github.com/facebook/create-react-app/blob/master/README.md). Please check the documentation, because this project's documentation is frequently updated. You can use either npm or yarn as your package manager, whichever you prefer to use is fine.
 
-This react app will be relatively simple. We don't need to worry about using Redux, and we just need to create one component to handle everything we need.
+This react app will be relatively simple. We don't need to worry about using Redux, and we just need to create one component to handle everything.
 
 <span style="text-decoration: underline;">Requirements</span>
 
